@@ -1,7 +1,15 @@
 {
   "schema_version": 1,
-  "published_at": "2026-11-10T02:56:15.989Z",
+  "published_at": "2026-11-10T03:20:55.769Z",
   "records": [
+    {
+      "code": "91f2d74c69d089492efd094dd433ae7c10afbce002aba29c",
+      "id": "EVMC-2026-0002",
+      "title": "Certification-VLP-Capstone-Pili-Kernel",
+      "type": "Certification",
+      "date": "2026-11-08",
+      "status": "Valid"
+    },
     {
       "code": "bf6c219f4febd2aafc757d3b46e115901146965cbc4095f6",
       "id": "EVMC-2026-0001",
